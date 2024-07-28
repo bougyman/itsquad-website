@@ -50,7 +50,7 @@ pluralizelisttitles = false
     name       = "VPNs & TRACKERS"
     identifier = "menu.vpns & trackers"
     url        = "/"
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
     name       = "VPNs"
@@ -66,13 +66,7 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.vpns & trackers"
 
-[[menu.main]]
-    name       = "Support"
-    url        = ""
-    weight     = 2
-    parent     = "section.vpns & trackers"
-
-[[menu.main]]
+    [[menu.main]]
     name       = "GPS Trackers"
     identifier = "section.vpns & trackers"
     url        = ""
