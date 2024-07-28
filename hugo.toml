@@ -47,22 +47,10 @@ pluralizelisttitles = false
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Sensors"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "IT Divices Services"
-    url        = "/"
-    weight     = 6
-    parent     = "menu.home"
-
-[[menu.main]]
     name       = "VPNs & TRACKERS"
     identifier = "menu.vpns & trackers"
     url        = "/"
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
     name       = "Shortcodes"
