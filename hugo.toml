@@ -389,7 +389,7 @@ pluralizelisttitles = false
     weight = 5
     name = "Email"
     url = "itsquadpv@gmail.com"
-    pre = "<i class='fas fa-2x fa-gmail'></i>"
+    pre = "<i class='fas fa-2x fa-https://mail.google.com/mail/u/0/#inbox?compose=new'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
