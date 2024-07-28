@@ -66,6 +66,12 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.vpns & trackers"
 
+    [[menu.main]]
+    name       = "Support"
+    url        = ""
+    weight     = 2
+    parent     = "section.vpns & trackers"
+
 [[menu.main]]
     name       = "All Pages"
     identifier = "menu.allpages"
