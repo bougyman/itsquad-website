@@ -47,12 +47,6 @@ pluralizelisttitles = false
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "VPNs & TRACKERS"
-    identifier = "menu.vpns & trackers"
-    url        = "/"
-    weight     = 2
-
-[[menu.main]]
     name       = "Shortcodes"
     identifier = "section.shortcodes"
     url        = ""
