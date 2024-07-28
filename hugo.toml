@@ -23,39 +23,33 @@ pluralizelisttitles = false
 
 # Main menu
 [[menu.main]]
-    name       = "HOME"
+    name       = "SMART HOMES"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
 
 [[menu.main]]
-    name       = "SMART HOMES"
+    name       = "Smart Locks & Doorbells"
     url        = "/"
     weight     = 1
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "VPNs & TRACKERS"
+    name       = "Smart Plugs & Lights"
     url        = "/"
     weight     = 2
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "WEBSITE"
+    name       = "Smart Camaras"
     url        = "/"
     weight     = 3
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "POINT OF SALE"
+    name       = "Sensors"
     url        = "/"
     weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "MAC/iMac Services"
-    url        = "/"
-    weight     = 5
     parent     = "menu.home"
 
 [[menu.main]]
