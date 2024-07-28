@@ -65,9 +65,9 @@ pluralizelisttitles = false
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "FEATURES"
-    identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
+    name       = "VPNs & TRACKERS"
+    identifier = "menu.vpns & trackers"
+    url        = "/"
     weight     = 3
 
 [[menu.main]]
