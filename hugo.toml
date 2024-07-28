@@ -129,100 +129,38 @@ pluralizelisttitles = false
     parent     = "section.headervariations"
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "menu.portfolio"
-    url        = "/img/template-homepage.png"
+    name       = "VPNs & TRACKERS"
+    identifier = "menu.vpns & trackers"
+    url        = "/"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
+    name       = "VPNs"
+    identifier = "section.vpns & trackers"
     url        = ""
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.vpns & trackers"
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
+    name       = "Divices"
     url        = ""
     weight     = 1
-    parent     = "section.portfolio"
+    parent     = "section.vpns & trackers"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
+    name       = "Support"
     url        = ""
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.vpns & trackers"
 
 [[menu.main]]
-    name       = "3 Columns"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "About Us"
+    name       = "GPS Trackers"
+    identifier = "section.vpns & trackers"
     url        = ""
     weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Packages"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
+    parent     = "menu.vpns & trackers"
+    post       = 1
 
 [[menu.main]]
     name       = "All Pages"
