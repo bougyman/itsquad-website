@@ -381,14 +381,14 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 4
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    name = "Instagram"
+    url = "https://www.instagram.com/pvitsquad/?utm_source=ig_web_button_share_sheet"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "itsquadpv@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
