@@ -76,7 +76,7 @@ pluralizelisttitles = false
     name       = "GPS Trackers"
     identifier = "section.vpns & trackers"
     url        = ""
-    weight     = 2
+    weight     = 1
     parent     = "menu.vpns & trackers"
     post       = 2
 
