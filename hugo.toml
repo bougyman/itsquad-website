@@ -295,11 +295,11 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +52 322 180 8057 or info@itsquadpv.com.</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+52 322 180 8057" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:info@itsquadpv.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
-      """
+      """1
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
