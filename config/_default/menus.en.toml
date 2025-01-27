@@ -1,0 +1,86 @@
+[[main]]
+    name       = "DPNs & Security"
+    identifier = "menu.dpns"
+    url        = "/dpns"
+    weight     = 1
+
+    [[main]]
+        name       = "DPNs"
+        identifier = "section.dpns"
+        url        = "/dpns/"
+        weight     = 1
+        parent     = "menu.dpns"
+
+    [[main]]
+        name       = "Support"
+        url        = "/dpns/support"
+        weight     = 2
+        parent     = "menu.dpns"
+
+[[main]]
+    name       = "Smart Homes"
+    identifier = "menu.home"
+    url        = "/homes"
+    weight     = 2
+
+    [[main]]
+        name       = "Smart Locks & Doorbells"
+        url        = "/homes#locks"
+        weight     = 1
+        parent     = "menu.home"
+
+    [[main]]
+        name       = "Smart Plugs & Lights"
+        url        = "/homes#lights"
+        weight     = 2
+        parent     = "menu.home"
+
+    [[main]]
+        name       = "Smart Camaras"
+        url        = "/homes#cameras"
+        weight     = 3
+        parent     = "menu.home"
+
+[[main]]
+    name       = "Property Management"
+    identifier = "menu.property"
+    url        = "/property"
+    weight     = 3
+
+    [[main]]
+        name       = "Maintenance"
+        url        = "/property/maintenance"
+        weight     = 1
+        parent     = "menu.property"
+
+    [[main]]
+        name       = "Marketing"
+        url        = "/property/marketing"
+        weight     = 2
+        parent     = "menu.property"
+
+[[main]]
+    name       = "More Services"
+    identifier = "menu.moar"
+    url        = "/more"
+    weight     = 4
+
+    [[main]]
+        name       = "Immigration Services"
+        url        = "/more/immigration"
+        identifier = "menu.moar.immigration"
+        weight     = 1
+        parent     = "menu.moar"
+
+        [[main]]
+            name       = "Visa Services"
+            url = "/more/immigration/visa"
+            weight = 1
+            parent = "menu.moar.immigration"
+
+    [[main]]
+        name       = "Marketing"
+        url        = "/property/marketing"
+        weight     = 2
+        parent     = "menu.property"
+

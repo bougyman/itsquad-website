@@ -1,0 +1,21 @@
+[en]
+languagecode = "en-us"
+languagedirection = "ltr"
+languagename = "English"
+weight = 10
+
+[en.params.paige]
+copyright = "© The \"It\" Squad"
+description = "You want it? We got you."
+title = "The \"It\" Squad"
+
+[es]
+languagecode = "es"
+languagedirection = "ltr"
+languagename = "Spanish"
+weight = 15
+
+[es.params.paige]
+copyright = "© The \"It\" Squad"
+description = "You want it? We got you."
+title = "The \"It\" Squad"
